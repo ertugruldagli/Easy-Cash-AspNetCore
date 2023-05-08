@@ -1,0 +1,12 @@
+C:\UCC08\Projects\Easy-Cash-AspNetCore\EasyCashIdentityProject\EasyCashIdentityProject.DataAccessLayer\bin\Debug\net6.0\EasyCashIdentityProject.DataAccessLayer.deps.json
+C:\UCC08\Projects\Easy-Cash-AspNetCore\EasyCashIdentityProject\EasyCashIdentityProject.DataAccessLayer\bin\Debug\net6.0\EasyCashIdentityProject.DataAccessLayer.dll
+C:\UCC08\Projects\Easy-Cash-AspNetCore\EasyCashIdentityProject\EasyCashIdentityProject.DataAccessLayer\bin\Debug\net6.0\EasyCashIdentityProject.DataAccessLayer.pdb
+C:\UCC08\Projects\Easy-Cash-AspNetCore\EasyCashIdentityProject\EasyCashIdentityProject.DataAccessLayer\obj\Debug\net6.0\EasyCashIdentityProject.DataAccessLayer.csproj.AssemblyReference.cache
+C:\UCC08\Projects\Easy-Cash-AspNetCore\EasyCashIdentityProject\EasyCashIdentityProject.DataAccessLayer\obj\Debug\net6.0\EasyCashIdentityProject.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\UCC08\Projects\Easy-Cash-AspNetCore\EasyCashIdentityProject\EasyCashIdentityProject.DataAccessLayer\obj\Debug\net6.0\EasyCashIdentityProject.DataAccessLayer.AssemblyInfoInputs.cache
+C:\UCC08\Projects\Easy-Cash-AspNetCore\EasyCashIdentityProject\EasyCashIdentityProject.DataAccessLayer\obj\Debug\net6.0\EasyCashIdentityProject.DataAccessLayer.AssemblyInfo.cs
+C:\UCC08\Projects\Easy-Cash-AspNetCore\EasyCashIdentityProject\EasyCashIdentityProject.DataAccessLayer\obj\Debug\net6.0\EasyCashIdentityProject.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\UCC08\Projects\Easy-Cash-AspNetCore\EasyCashIdentityProject\EasyCashIdentityProject.DataAccessLayer\obj\Debug\net6.0\EasyCashIdentityProject.DataAccessLayer.dll
+C:\UCC08\Projects\Easy-Cash-AspNetCore\EasyCashIdentityProject\EasyCashIdentityProject.DataAccessLayer\obj\Debug\net6.0\refint\EasyCashIdentityProject.DataAccessLayer.dll
+C:\UCC08\Projects\Easy-Cash-AspNetCore\EasyCashIdentityProject\EasyCashIdentityProject.DataAccessLayer\obj\Debug\net6.0\EasyCashIdentityProject.DataAccessLayer.pdb
+C:\UCC08\Projects\Easy-Cash-AspNetCore\EasyCashIdentityProject\EasyCashIdentityProject.DataAccessLayer\obj\Debug\net6.0\ref\EasyCashIdentityProject.DataAccessLayer.dll

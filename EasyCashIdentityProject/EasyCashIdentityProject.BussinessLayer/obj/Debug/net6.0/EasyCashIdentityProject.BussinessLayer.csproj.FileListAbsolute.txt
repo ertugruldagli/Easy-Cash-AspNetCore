@@ -1,0 +1,12 @@
+C:\UCC08\Projects\Easy-Cash-AspNetCore\EasyCashIdentityProject\EasyCashIdentityProject.BussinessLayer\bin\Debug\net6.0\EasyCashIdentityProject.BussinessLayer.deps.json
+C:\UCC08\Projects\Easy-Cash-AspNetCore\EasyCashIdentityProject\EasyCashIdentityProject.BussinessLayer\bin\Debug\net6.0\EasyCashIdentityProject.BussinessLayer.dll
+C:\UCC08\Projects\Easy-Cash-AspNetCore\EasyCashIdentityProject\EasyCashIdentityProject.BussinessLayer\bin\Debug\net6.0\EasyCashIdentityProject.BussinessLayer.pdb
+C:\UCC08\Projects\Easy-Cash-AspNetCore\EasyCashIdentityProject\EasyCashIdentityProject.BussinessLayer\obj\Debug\net6.0\EasyCashIdentityProject.BussinessLayer.csproj.AssemblyReference.cache
+C:\UCC08\Projects\Easy-Cash-AspNetCore\EasyCashIdentityProject\EasyCashIdentityProject.BussinessLayer\obj\Debug\net6.0\EasyCashIdentityProject.BussinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\UCC08\Projects\Easy-Cash-AspNetCore\EasyCashIdentityProject\EasyCashIdentityProject.BussinessLayer\obj\Debug\net6.0\EasyCashIdentityProject.BussinessLayer.AssemblyInfoInputs.cache
+C:\UCC08\Projects\Easy-Cash-AspNetCore\EasyCashIdentityProject\EasyCashIdentityProject.BussinessLayer\obj\Debug\net6.0\EasyCashIdentityProject.BussinessLayer.AssemblyInfo.cs
+C:\UCC08\Projects\Easy-Cash-AspNetCore\EasyCashIdentityProject\EasyCashIdentityProject.BussinessLayer\obj\Debug\net6.0\EasyCashIdentityProject.BussinessLayer.csproj.CoreCompileInputs.cache
+C:\UCC08\Projects\Easy-Cash-AspNetCore\EasyCashIdentityProject\EasyCashIdentityProject.BussinessLayer\obj\Debug\net6.0\EasyCashIdentityProject.BussinessLayer.dll
+C:\UCC08\Projects\Easy-Cash-AspNetCore\EasyCashIdentityProject\EasyCashIdentityProject.BussinessLayer\obj\Debug\net6.0\refint\EasyCashIdentityProject.BussinessLayer.dll
+C:\UCC08\Projects\Easy-Cash-AspNetCore\EasyCashIdentityProject\EasyCashIdentityProject.BussinessLayer\obj\Debug\net6.0\EasyCashIdentityProject.BussinessLayer.pdb
+C:\UCC08\Projects\Easy-Cash-AspNetCore\EasyCashIdentityProject\EasyCashIdentityProject.BussinessLayer\obj\Debug\net6.0\ref\EasyCashIdentityProject.BussinessLayer.dll

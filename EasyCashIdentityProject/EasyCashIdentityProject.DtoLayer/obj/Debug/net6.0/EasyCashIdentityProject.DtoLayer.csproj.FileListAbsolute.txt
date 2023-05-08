@@ -1,0 +1,12 @@
+C:\UCC08\Projects\Easy-Cash-AspNetCore\EasyCashIdentityProject\EasyCashIdentityProject.DtoLayer\bin\Debug\net6.0\EasyCashIdentityProject.DtoLayer.deps.json
+C:\UCC08\Projects\Easy-Cash-AspNetCore\EasyCashIdentityProject\EasyCashIdentityProject.DtoLayer\bin\Debug\net6.0\EasyCashIdentityProject.DtoLayer.dll
+C:\UCC08\Projects\Easy-Cash-AspNetCore\EasyCashIdentityProject\EasyCashIdentityProject.DtoLayer\bin\Debug\net6.0\EasyCashIdentityProject.DtoLayer.pdb
+C:\UCC08\Projects\Easy-Cash-AspNetCore\EasyCashIdentityProject\EasyCashIdentityProject.DtoLayer\obj\Debug\net6.0\EasyCashIdentityProject.DtoLayer.csproj.AssemblyReference.cache
+C:\UCC08\Projects\Easy-Cash-AspNetCore\EasyCashIdentityProject\EasyCashIdentityProject.DtoLayer\obj\Debug\net6.0\EasyCashIdentityProject.DtoLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\UCC08\Projects\Easy-Cash-AspNetCore\EasyCashIdentityProject\EasyCashIdentityProject.DtoLayer\obj\Debug\net6.0\EasyCashIdentityProject.DtoLayer.AssemblyInfoInputs.cache
+C:\UCC08\Projects\Easy-Cash-AspNetCore\EasyCashIdentityProject\EasyCashIdentityProject.DtoLayer\obj\Debug\net6.0\EasyCashIdentityProject.DtoLayer.AssemblyInfo.cs
+C:\UCC08\Projects\Easy-Cash-AspNetCore\EasyCashIdentityProject\EasyCashIdentityProject.DtoLayer\obj\Debug\net6.0\EasyCashIdentityProject.DtoLayer.csproj.CoreCompileInputs.cache
+C:\UCC08\Projects\Easy-Cash-AspNetCore\EasyCashIdentityProject\EasyCashIdentityProject.DtoLayer\obj\Debug\net6.0\EasyCashIdentityProject.DtoLayer.dll
+C:\UCC08\Projects\Easy-Cash-AspNetCore\EasyCashIdentityProject\EasyCashIdentityProject.DtoLayer\obj\Debug\net6.0\refint\EasyCashIdentityProject.DtoLayer.dll
+C:\UCC08\Projects\Easy-Cash-AspNetCore\EasyCashIdentityProject\EasyCashIdentityProject.DtoLayer\obj\Debug\net6.0\EasyCashIdentityProject.DtoLayer.pdb
+C:\UCC08\Projects\Easy-Cash-AspNetCore\EasyCashIdentityProject\EasyCashIdentityProject.DtoLayer\obj\Debug\net6.0\ref\EasyCashIdentityProject.DtoLayer.dll
