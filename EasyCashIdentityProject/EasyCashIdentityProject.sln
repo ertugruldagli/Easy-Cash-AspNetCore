@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyCashIdentityProject.Bus
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyCashIdentityProject.DtoLayer", "EasyCashIdentityProject.DtoLayer\EasyCashIdentityProject.DtoLayer.csproj", "{F96C44BA-6C52-4D2C-9771-53AB293ED95F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyCashIdentityProject.PresentationLayer", "EasyCashIdentityProject.PresentationLayer\EasyCashIdentityProject.PresentationLayer.csproj", "{81F52C3B-5FB8-43BB-AA55-26AC83FB8583}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{F96C44BA-6C52-4D2C-9771-53AB293ED95F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F96C44BA-6C52-4D2C-9771-53AB293ED95F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F96C44BA-6C52-4D2C-9771-53AB293ED95F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81F52C3B-5FB8-43BB-AA55-26AC83FB8583}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81F52C3B-5FB8-43BB-AA55-26AC83FB8583}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81F52C3B-5FB8-43BB-AA55-26AC83FB8583}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81F52C3B-5FB8-43BB-AA55-26AC83FB8583}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
