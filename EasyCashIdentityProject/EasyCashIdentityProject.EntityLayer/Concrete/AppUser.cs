@@ -8,7 +8,12 @@ using System.Threading.Tasks;
 namespace EasyCashIdentityProject.EntityLayer.Concrete
 {
 
-    public class AppUser:IdentityUser //SQl tarafında AspNetUsers isimli tablonun karşılığıdır.
+    public class AppUser:IdentityUser<int> //SQl tarafında AspNetUsers isimli tablonun karşılığıdır.
     {
+        public string Name { get; set; }
+        public string Surname { get; set; }
+        public string District { get; set; }
+        public string City { get; set; }
+        public string ImageUrl { get; set; }
     }
 }
