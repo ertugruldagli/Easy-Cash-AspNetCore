@@ -12,7 +12,7 @@ namespace EasyCashIdentityProject.DataAccessLayer.Concrete
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            base.OnConfiguring(optionsBuilder);
+            optionsBuilder.UseSqlServer("server=ED-INTERN;intitial catalog=EasyCashDB; integrated Security=true");
         }
     }
 }
