@@ -14,11 +14,11 @@ namespace EasyCashIdentityProject.DataAccessLayer.Concrete
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("server=ED-INTERN;intitial catalog=EasyCashDB; integrated Security=true");
+            optionsBuilder.UseSqlServer("server=ED-INTERN;initial catalog=EasyCashDB; integrated Security=true");
         }
 
-        public DbSet<CustomerAccount> customerAccounts { get; set; }
+        public DbSet<CustomerAccount> CustomerAccounts { get; set; }
 
-        public DbSet<AccountProcess> accountProcesses  { get; set; }
+        public DbSet<AccountProcess> AccountProcesses  { get; set; }
     }
 }

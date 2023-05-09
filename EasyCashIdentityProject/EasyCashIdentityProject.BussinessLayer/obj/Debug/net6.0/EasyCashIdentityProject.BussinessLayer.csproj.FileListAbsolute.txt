@@ -10,3 +10,10 @@ C:\UCC08\Projects\Easy-Cash-AspNetCore\EasyCashIdentityProject\EasyCashIdentityP
 C:\UCC08\Projects\Easy-Cash-AspNetCore\EasyCashIdentityProject\EasyCashIdentityProject.BussinessLayer\obj\Debug\net6.0\refint\EasyCashIdentityProject.BussinessLayer.dll
 C:\UCC08\Projects\Easy-Cash-AspNetCore\EasyCashIdentityProject\EasyCashIdentityProject.BussinessLayer\obj\Debug\net6.0\EasyCashIdentityProject.BussinessLayer.pdb
 C:\UCC08\Projects\Easy-Cash-AspNetCore\EasyCashIdentityProject\EasyCashIdentityProject.BussinessLayer\obj\Debug\net6.0\ref\EasyCashIdentityProject.BussinessLayer.dll
+C:\UCC08\Projects\Easy-Cash-AspNetCore\EasyCashIdentityProject\EasyCashIdentityProject.BussinessLayer\bin\Debug\net6.0\EasyCashIdentityProject.BussinessLayer.runtimeconfig.json
+C:\UCC08\Projects\Easy-Cash-AspNetCore\EasyCashIdentityProject\EasyCashIdentityProject.BussinessLayer\bin\Debug\net6.0\EasyCashIdentityProject.DataAccessLayer.dll
+C:\UCC08\Projects\Easy-Cash-AspNetCore\EasyCashIdentityProject\EasyCashIdentityProject.BussinessLayer\bin\Debug\net6.0\EasyCashIdentityProject.EntityLayer.dll
+C:\UCC08\Projects\Easy-Cash-AspNetCore\EasyCashIdentityProject\EasyCashIdentityProject.BussinessLayer\bin\Debug\net6.0\EasyCashIdentityProject.DataAccessLayer.pdb
+C:\UCC08\Projects\Easy-Cash-AspNetCore\EasyCashIdentityProject\EasyCashIdentityProject.BussinessLayer\bin\Debug\net6.0\EasyCashIdentityProject.EntityLayer.pdb
+C:\UCC08\Projects\Easy-Cash-AspNetCore\EasyCashIdentityProject\EasyCashIdentityProject.BussinessLayer\obj\Debug\net6.0\EasyCashIdentityProject.BussinessLayer.csproj.CopyComplete
+C:\UCC08\Projects\Easy-Cash-AspNetCore\EasyCashIdentityProject\EasyCashIdentityProject.BussinessLayer\obj\Debug\net6.0\EasyCashIdentityProject.BussinessLayer.genruntimeconfig.cache

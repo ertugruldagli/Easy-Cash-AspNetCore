@@ -10,3 +10,5 @@ C:\UCC08\Projects\Easy-Cash-AspNetCore\EasyCashIdentityProject\EasyCashIdentityP
 C:\UCC08\Projects\Easy-Cash-AspNetCore\EasyCashIdentityProject\EasyCashIdentityProject.EntityLayer\obj\Debug\net6.0\refint\EasyCashIdentityProject.EntityLayer.dll
 C:\UCC08\Projects\Easy-Cash-AspNetCore\EasyCashIdentityProject\EasyCashIdentityProject.EntityLayer\obj\Debug\net6.0\EasyCashIdentityProject.EntityLayer.pdb
 C:\UCC08\Projects\Easy-Cash-AspNetCore\EasyCashIdentityProject\EasyCashIdentityProject.EntityLayer\obj\Debug\net6.0\ref\EasyCashIdentityProject.EntityLayer.dll
+C:\UCC08\Projects\Easy-Cash-AspNetCore\EasyCashIdentityProject\EasyCashIdentityProject.EntityLayer\bin\Debug\net6.0\EasyCashIdentityProject.EntityLayer.runtimeconfig.json
+C:\UCC08\Projects\Easy-Cash-AspNetCore\EasyCashIdentityProject\EasyCashIdentityProject.EntityLayer\obj\Debug\net6.0\EasyCashIdentityProject.EntityLayer.genruntimeconfig.cache
